@@ -1,0 +1,5 @@
+node_modules/
+.ghost/
+*.log
+.env
+.DS_Store
